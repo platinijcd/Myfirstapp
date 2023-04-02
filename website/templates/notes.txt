@@ -1,0 +1,11 @@
+{%djang script dans du html%}
+
+
+BASE.html
+est un complement de Home.html il va gere toute la partie affichage dynamique et actions interactions et CSS
+
+VIEW.py
+script django fait la liason avec le backend, Base de données
+
+URLS.py
+le gere les liaisons entre le script django et html, fait les reference de lien de page et de fonction
